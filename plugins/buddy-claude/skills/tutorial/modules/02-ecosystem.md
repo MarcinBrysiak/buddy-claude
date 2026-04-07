@@ -1,55 +1,67 @@
-# Moduł 1: Ekosystem Claude
+# Modul 2: Ekosystem Claude
 
 ## Sekcja 1: Czym jest Claude?
 
-Wyjaśnij uczestnikowi:
+Wyjasnij uczestnikowi:
 
-- Claude to asystent AI stworzony przez firmę Anthropic
-- Działa podobnie do ChatGPT, ale ma inną architekturę i filozofię
-- Analogia marketingowa: "Tak jak masz różne narzędzia do analityki (Google Analytics, Hotjar, Mixpanel), tak są różni asystenci AI. Claude to jeden z nich — z własnymi mocnymi stronami"
+- Claude to asystent AI stworzony przez firme Anthropic
+- Dziala podobnie do ChatGPT, ale ma inna architekture i filozofie
+- Analogia marketingowa: "Tak jak masz rozne narzedzia do analityki (Google Analytics, Hotjar, Mixpanel), tak sa rozni asystenci AI. Claude to jeden z nich — z wlasnymi mocnymi stronami"
 
-Kluczowe różnice vs. ChatGPT (uproszczenie):
-- Claude jest bardzo dobry w długich, złożonych zadaniach
-- Lepiej radzi sobie z analizą dokumentów i kontekstem
-- Ma silne zasady bezpieczeństwa
+Kluczowe roznice vs. ChatGPT (uproszczenie):
+- Claude jest bardzo dobry w dlugich, zlozonych zadaniach
+- Lepiej radzi sobie z analiza dokumentow i kontekstem
+- Ma silne zasady bezpieczenstwa
 
-Zapytaj: "Czy korzystaliście wcześniej z ChatGPT lub innego AI? Co robiliście?"
+Zapytaj: "[imie], korzystales/as wczesniej z ChatGPT lub innego AI? Co robiles/as?"
 
 ## Sekcja 2: Modele Claude
 
-Wyjaśnij uczestnikowi:
+Wyjasnij uczestnikowi:
 
-- Claude ma różne "wersje" — nazywamy je modelami
-- Analogia: "To jak różne pakiety w narzędziu marketingowym — Basic, Pro, Enterprise. Każdy ma inne możliwości"
-- Haiku — szybki, do prostych zadań (jak szybka odpowiedź na Slacku)
+- Pamietasz modele ze slownika? Teraz zobaczysz je w kontekscie:
+- Haiku — szybki, do prostych zadan (jak szybka odpowiedz na Slacku)
 - Sonnet — zbalansowany, do codziennej pracy (jak standardowa kampania)
-- Opus — najpotężniejszy, do złożonych analiz (jak pełna strategia rebrandingu)
-- Jako zespół Enterprise macie dostęp do wszystkich modeli
+- Opus — najpotezniejszy, do zlozonych analiz (jak pelna strategia rebrandingu)
+- Jako zespol Enterprise macie dostep do wszystkich modeli
 
-Zapytaj: "Czy to jest jasne? Chcesz wiedzieć więcej o którymś modelu?"
+Zapytaj: "Czy to jest jasne? Chcesz wiedziec wiecej o ktorym modelu?"
 
-## Sekcja 3: Claude Code — Twoje narzędzie pracy
+## Sekcja 3: Tryby Claude — Chat, Cowork, Code
 
-Wyjaśnij uczestnikowi:
+Wyjasnij uczestnikowi:
 
-- Claude Code to aplikacja, przez którą rozmawiacie z Claude
-- Działa na komputerze (desktop app) — to właśnie ją teraz używacie
-- Jest jak "centrum dowodzenia" — jedno miejsce do rozmów z AI
-- Analogia: "Claude Code jest dla Claude jak Slack jest dla komunikacji zespołowej — interfejs, przez który wszystko się dzieje"
-- W odróżnieniu od strony internetowej (claude.ai), Claude Code ma supemoce: pluginy, skille, narzędzia
+- Claude Code desktop app ma 3 tryby pracy — jak 3 rozne "biurka":
+- **Chat** — prosty czat z Claude, jak rozmowa na Messengerze. Piszesz, dostajesz odpowiedz. "Ten tryb poznacie w przyszlosci."
+- **Cowork** — to w czym teraz jestescie! Czat PLUS dostep do plikow, narzedzi, pluginow. "To Wasze glowne narzedzie pracy."
+- **Code** — terminal dla developerow, linia komend. "To domena Marcina i zespolu technicznego. Nie musicie tego znac."
+- Kluczowy przekaz: "Cowork laczy prostosc chatu z moca pracy na plikach i dokumentach. Dlatego go uzywamy."
 
-Zapytaj: "Widzicie teraz Claude Code na swoich komputerach? Wszystko działa?"
+Zapytaj: "[imie], widzisz ze jestes w Cowork? Super — tu zostajemy przez caly kurs."
 
-## Sekcja 4: Plan Enterprise
+## Sekcja 4: Gdzie Claude pracuje — dysk C
 
-Wyjaśnij uczestnikowi:
+Wyjasnij uczestnikowi:
 
-- Jako firma macie plan Enterprise — to najwyższy pakiet
+- Claude Cowork zawsze pracuje na Twoim dysku, w konkretnym folderze
+- Sciezka: Dysk C → Uzytkownicy → Twoja_nazwa → ...
+- Analogia: "To jak biurko Claude — tutaj trzyma dokumenty nad ktorymi pracuje. Jesli chcesz zeby cos widzial, musi byc na tym biurku."
+- To wazne na pozniej — gdy bedziesz tworzyl/a wlasny projekt, zrozumiesz dlaczego lokalizacja plikow ma znaczenie
+
+Zapytaj: "Czy to jest jasne? To fundamentalna rzecz — Claude widzi to co jest na dysku."
+
+## Sekcja 5: Plan Enterprise
+
+Wyjasnij uczestnikowi:
+
+- Jako firma macie plan Enterprise — to najwyzszy pakiet
 - Co to oznacza w praktyce:
-  - Wasze rozmowy NIE są używane do trenowania AI
-  - Macie dostęp do wszystkich modeli
-  - Możecie instalować pluginy (jak ten Buddy-Claude!)
-  - Administrator (AI Champion — Marcin) zarządza dostępami
-- Analogia: "To jak różnica między darmowym Canvą a Canva Enterprise — więcej możliwości, lepsza kontrola, bezpieczeństwo danych firmy"
+  - Wasze rozmowy NIE sa uzywane do trenowania AI
+  - Macie dostep do wszystkich modeli
+  - Mozecie instalowac pluginy (jak ten Buddy-Claude!)
+  - Administrator (AI Champion — Marcin) zarzadza dostepami
+- Analogia: "To jak roznica miedzy darmowym Canva a Canva Enterprise — wiecej mozliwosci, lepsza kontrola, bezpieczenstwo danych firmy"
 
-Podsumuj moduł: "Świetnie! Teraz wiesz czym jest Claude, jakie ma modele i jak działa Claude Code. Chcesz przejść do modułu 2 (Poruszanie się po Claude Code) lub przećwiczyć coś? Wpisz `/exercise 1` żeby spróbować pierwszej rozmowy z Claude."
+Podsumuj modul: "[imie], teraz wiesz czym jest Claude, jakie ma modele, ze pracujesz w trybie Cowork i ze Claude widzi pliki na Twoim dysku. Ruszamy do cwiczenia — napiszesz swoj pierwszy prompt! [Krok 2/13 ukonczony]"
+
+Poczekaj na potwierdzenie.
