@@ -1,0 +1,24 @@
+{
+  "name": "buddy-claude-marketplace",
+  "owner": {
+    "name": "Marcin",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Marketplace pluginow szkoleniowych Claude Code dla InPost",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "buddy-claude",
+      "source": "./plugins/buddy-claude",
+      "description": "Asystent szkoleniowy Claude Code dla zespolu marketingu InPost",
+      "version": "1.0.0",
+      "author": {
+        "name": "Marcin"
+      },
+      "keywords": ["training", "onboarding", "claude-code", "inpost", "marketing"]
+    }
+  ]
+}
