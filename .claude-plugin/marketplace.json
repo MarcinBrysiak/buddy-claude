@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Marketplace pluginow szkoleniowych Claude Code dla InPost",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "pluginRoot": "./plugins"
   },
   "plugins": [
@@ -14,7 +14,7 @@
       "name": "buddy-claude",
       "source": "./plugins/buddy-claude",
       "description": "Asystent szkoleniowy Claude Code dla zespolu marketingu InPost",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "author": {
         "name": "Marcin"
       },
