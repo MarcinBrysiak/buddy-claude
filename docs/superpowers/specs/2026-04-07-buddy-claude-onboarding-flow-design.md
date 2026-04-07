@@ -128,6 +128,10 @@ A jesli chcesz zglebic bardziej zaawansowane tematy — pogadaj z Marcinem, Wasz
 
 ---
 
+## Wazna decyzja techniczna
+
+Skill `/buddy-claude` **czyta pliki modulow i cwiczen bezposrednio** (np. `modules/01-ecosystem.md`, `exercises/ex01-first-chat.md`). NIE wywoluje skilli `/tutorial` ani `/exercise` — to by zmienilo kontekst i przerwalo flow. Istniejace skille dzialaja niezaleznie po zakonczeniu kursu lub gdy uczestnik uzyje ich recznie.
+
 ## Implementacja — co trzeba zrobic
 
 1. **Nowy skill `/buddy-claude`** — plik `skills/buddy-claude/SKILL.md` z pelnym flow
