@@ -27,9 +27,10 @@ Wybierz ćwiczenie:
 4. Korzystanie ze skilli — użyj /explain i /hint w praktyce
 
 **Zaawansowane:**
-5. Realne zadanie marketingowe — stwórz coś wartościowego z Claude
+5. Stwórz swój CLAUDE.md — napisz plik kontekstowy dla swojego projektu
+6. Własny projekt od zera — zaplanuj i uruchom projekt z Claude
 
-Wpisz numer ćwiczenia (1-5).
+Wpisz numer ćwiczenia (1-6).
 
 ---
 
@@ -40,7 +41,8 @@ Wpisz numer ćwiczenia (1-5).
    - 2 → `exercises/ex02-prompting.md`
    - 3 → `exercises/ex03-context.md`
    - 4 → `exercises/ex04-skills-usage.md`
-   - 5 → `exercises/ex05-real-task.md`
+   - 5 → `exercises/ex05-claude-md.md`
+   - 6 → `exercises/ex06-own-project.md`
 2. Prowadź uczestnika krok po kroku przez ćwiczenie
 3. Po każdym kroku poczekaj na wykonanie i daj feedback
 4. Na końcu podsumuj: co się udało, co warto zapamiętać
