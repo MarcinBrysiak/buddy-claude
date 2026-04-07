@@ -1,51 +1,68 @@
-# Moduł 2: Poruszanie się po Claude Code
+# Modul 3: Poruszanie sie po Claude Cowork
 
 ## Sekcja 1: Interfejs — co widzisz na ekranie
 
-Wyjaśnij uczestnikowi:
+Wyjasnij uczestnikowi:
 
-- Okno Claude Code desktop app to Twoje główne narzędzie pracy
-- Na dole jest pole tekstowe — tu wpisujesz swoje wiadomości (prompty)
-- Powyżej widzisz historię rozmowy — Twoje pytania i odpowiedzi Claude
-- Analogia: "To jak okno czatu — Slack, Messenger, WhatsApp. Piszesz na dole, rozmowa toczy się powyżej"
+- Okno Claude Cowork to Twoje glowne narzedzie pracy
+- Na dole jest pole tekstowe — tu wpisujesz swoje wiadomosci (prompty)
+- Powyzej widzisz historie rozmowy — Twoje pytania i odpowiedzi Claude
+- Po lewej stronie jest boczne menu z nawigacja
+- Analogia: "To jak okno czatu — Slack, Messenger, WhatsApp. Piszesz na dole, rozmowa toczy sie powyzej. Menu po lewej to jak sidebar w Slacku."
 
-Poproś uczestnika: "Wpisz cokolwiek — np. 'Cześć, jestem z zespołu marketingu' — i wyślij. Zobacz jak Claude odpowiada."
+Popros uczestnika: "[imie], rozejrzyj sie po ekranie. Widzisz pole do wpisywania na dole? A menu po lewej? Za chwile przejdziemy przez kazdy element."
 
-## Sekcja 2: Rozmowy (konwersacje)
+## Sekcja 2: Elementy nawigacji Cowork
 
-Wyjaśnij uczestnikowi:
+Wyjasnij uczestnikowi kazdy element bocznego menu, po kolei:
 
-- Każda rozmowa to osobna "sesja" z Claude
-- Claude pamięta co powiedzieliście w ramach JEDNEJ rozmowy
-- Ale NIE pamięta poprzednich rozmów (chyba że użyjemy specjalnych narzędzi)
-- Analogia: "To jak spotkanie. Na spotkaniu wszyscy wiedzą o czym rozmawialiście. Ale na następnym spotkaniu musisz przypomnieć kontekst — chyba że masz notatki (to są właśnie pliki konfiguracyjne, o których powiemy w module 5)"
+- **Search** — przeszukiwanie wczesniejszych rozmow. Jak wyszukiwarka w Slacku — wpisujesz slowo kluczowe i znajdujesz rozmowe sprzed tygodnia.
+- **Projects** — przestrzenie pracy. Kazdy projekt to osobny "segregator" z plikami i ustawieniami. Szczegoly poznamy w module 7 — na razie wiedz ze istnieje.
+- **Ideas** — szybkie notatki i pomysly. Jak karteczki samoprzylepne — zapisujesz cos na pozniej.
+- **Customize** — ustawienia i personalizacja. Tu instalowales/as buddy-claude! Mozesz tu zarzadzac pluginami i preferencjami.
+- **Scheduled** — zaplanowane zadania, Claude robi cos o okreslonej porze. "To zaawansowana funkcja — poznacie w przyszlosci z Marcinem."
+- **Dispatch** — wysylanie zadan do Claude w tle. "Tez zaawansowane — na pozniej."
+
+Zapytaj: "[imie], widzisz te elementy u siebie? Kliknij na Projects i Ideas zeby zobaczyc co tam jest — nie boj sie, nic nie zepsujesz!"
+
+## Sekcja 3: Rozmowy (konwersacje)
+
+Wyjasnij uczestnikowi:
+
+- Kazda rozmowa to osobna "sesja" z Claude
+- Claude pamieta co powiedzieliscie w ramach JEDNEJ rozmowy
+- Ale NIE pamieta poprzednich rozmow (chyba ze uzyjemy specjalnych narzedzi)
+- Analogia: "To jak spotkanie. Na spotkaniu wszyscy wiedza o czym rozmawiali. Ale na nastepnym spotkaniu musisz przypomniez kontekst — chyba ze masz notatki (to sa wlasnie pliki konfiguracyjne, o ktorych powiemy w module 6)"
 - Nowa rozmowa = nowy kontekst = Claude zaczyna od zera
 
-Zapytaj: "Rozumiecie tę różnicę? To ważne — wpływa na to jak formułujecie prośby do Claude."
+Zapytaj: "[imie], rozumiesz te roznice? To wazne — wplywa na to jak formulujesz prosby do Claude."
 
-## Sekcja 3: Slash commands — komendy specjalne
+## Sekcja 4: Slash commands — komendy specjalne
 
-Wyjaśnij uczestnikowi:
+Wyjasnij uczestnikowi:
 
-- Slash commands to komendy zaczynające się od "/" (ukośnika)
-- Działają jak skróty — zamiast opisywać co chcesz, wpisujesz komendę
-- Analogia: "Jak hashtagi na Instagramie — #ad ma konkretne znaczenie. Tak samo /tutorial uruchamia konkretną funkcję"
-- Podstawowe komendy:
-  - `/tutorial` — ten przewodnik, którego teraz używacie
-  - `/explain` — słownik pojęć
-  - `/exercise` — ćwiczenia
+- Slash commands to komendy zaczynajace sie od "/" (ukosnika)
+- Dzialaja jak skroty — zamiast opisywac co chcesz, wpisujesz komende
+- Analogia: "Jak hashtagi na Instagramie — #ad ma konkretne znaczenie. Tak samo /tutorial uruchamia konkretna funkcje"
+- Komendy ktore juz znasz:
+  - `/buddy-claude` — to szkolenie w ktorym jestes
+  - `/tutorial` — przewodnik po modulach
+  - `/explain` — slownik pojec
+  - `/exercise` — cwiczenia
   - `/hint` — pomoc gdy utkniesz
-  - `/help` — lista dostępnych komend
 
-Poproś uczestnika: "Wpisz `/explain` i zobacz co się stanie. Nie musisz się bać — nic nie zepsujesz!"
+Popros uczestnika: "[imie], wpisz `/explain` i zobacz co sie stanie. Nie musisz sie bac — nic nie zepsujesz!"
 
-## Sekcja 4: Kontekst rozmowy
+## Sekcja 5: Kontekst rozmowy
 
-Wyjaśnij uczestnikowi:
+Wyjasnij uczestnikowi:
 
-- Im więcej informacji dasz Claude, tym lepsza będzie odpowiedź
-- Kontekst to wszystko co Claude wie w danym momencie: Twoje wiadomości, pliki które udostępnisz, instrukcje z pluginów
-- Analogia: "Wyobraź sobie że briefujesz nową agencję. Jeśli powiesz 'zróbcie kampanię' — dostaniesz coś losowego. Jeśli dasz brief z grupą docelową, budżetem, KPI — dostaniesz trafną propozycję. Z Claude jest tak samo."
-- Zasada: "Więcej kontekstu = lepsza odpowiedź"
+- Im wiecej informacji dasz Claude, tym lepsza bedzie odpowiedz
+- Kontekst to wszystko co Claude wie w danym momencie: Twoje wiadomosci, pliki ktore udostepnisz, instrukcje z pluginow
+- Claude widzi pliki i foldery na Twoim dysku — moze je czytac i analizowac (po Twojej zgodzie)
+- Analogia: "Wyobraz sobie ze briefujesz nowa agencje. Jesli powiesz 'zrobcie kampanie' — dostaniesz cos losowego. Jesli dasz brief z grupa docelowa, budzetem, KPI — dostaniesz trafna propozycje. Z Claude jest tak samo."
+- Zasada: "Wiecej kontekstu = lepsza odpowiedz"
 
-Podsumuj moduł: "Teraz wiesz jak wygląda Claude Code, jak działają rozmowy, komendy i kontekst. To fundamenty! Chcesz przećwiczyć? Wpisz `/exercise 1` lub przejdź do modułu 3 — Sztuka promptowania."
+Podsumuj modul: "[imie], teraz znasz mape Cowork — interfejs, nawigacje, rozmowy, komendy i kontekst. Nie musisz pamietac wszystkiego — klikaj, eksploruj, pytaj mnie. Czas na cwiczenie z promptowania! [Krok 4/13 ukonczony]"
+
+Poczekaj na potwierdzenie.
