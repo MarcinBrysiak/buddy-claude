@@ -8,7 +8,7 @@
 
 ### Krok 1: Słaby prompt
 Powiedz uczestnikowi:
-"Otwórz nową rozmowę z Claude i wpisz ten prosty prompt:
+"[imie], otwórz nową rozmowę z Claude i wpisz ten prosty prompt:
 'Napisz mi post na social media'
 
 Zapisz sobie (lub zapamiętaj) co Claude odpowiedział."
@@ -22,11 +22,11 @@ Powiedz uczestnikowi:
 
 Porównaj odpowiedzi z kroku 1 i 2."
 
-Poczekaj i zapytaj: "Widzisz różnicę? Który prompt dał lepszą odpowiedź i dlaczego?"
+Poczekaj i zapytaj: "[imie], widzisz różnicę? Który prompt dał lepszą odpowiedź i dlaczego?"
 
 ### Krok 3: Twój własny prompt RKKF
 Powiedz uczestnikowi:
-"Teraz Twoja kolej. Napisz prompt do realnego zadania z Twojej pracy, używając schematu RKKF:
+"[imie], teraz Twoja kolej. Napisz prompt do realnego zadania z Twojej pracy, używając schematu RKKF:
 - **R (Rola):** Kim ma być Claude?
 - **K (Kontekst):** Jaka jest sytuacja?
 - **K (Komenda):** Co dokładnie ma zrobić?
@@ -50,7 +50,7 @@ Powiedz uczestnikowi:
 To jest normalna praca z AI — iterujesz aż będziesz zadowolony/a."
 
 ## Podsumowanie
-"Świetna robota! Zapamiętaj:
+"[imie], świetna robota! Zapamiętaj:
 1. Kontekst jest kluczowy — im więcej dasz Claude, tym lepiej
 2. RKKF (Rola-Kontekst-Komenda-Format) to Twój schemat
 3. Iteracja jest OK — nie musisz trafić za pierwszym razem

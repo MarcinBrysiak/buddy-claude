@@ -8,14 +8,14 @@
 
 ### Krok 1: Eksploracja /explain
 Powiedz uczestnikowi:
-"Wpisz `/explain` (bez argumentu) i przejrzyj listę pojęć. Wybierz 3 pojęcia, które:
+"[imie], wpisz `/explain` (bez argumentu) i przejrzyj listę pojęć. Wybierz 3 pojęcia, które:
 - Jedno, które znasz — sprawdź czy definicja się zgadza z Twoim rozumieniem
 - Jedno, które kojarzysz ale nie jesteś pewien/pewna
 - Jedno, które jest zupełnie nowe
 
 Wpisz `/explain <pojęcie>` dla każdego z nich."
 
-Poczekaj aż uczestnik przejrzy 3 pojęcia. Zapytaj: "Któreś wyjaśnienie Cię zaskoczyło?"
+Poczekaj aż uczestnik przejrzy 3 pojęcia. Zapytaj: "[imie], któreś wyjaśnienie Cię zaskoczyło?"
 
 ### Krok 2: Test /hint
 Powiedz uczestnikowi:
@@ -25,7 +25,7 @@ Poczekaj i zapytaj: "Czy podpowiedź była pomocna? Hint nie daje gotowej odpowi
 
 ### Krok 3: Łączenie skilli z normalną rozmową
 Powiedz uczestnikowi:
-"Ważna rzecz: skille i normalna rozmowa mogą się przeplatać. Na przykład:
+"[imie], ważna rzecz: skille i normalna rozmowa mogą się przeplatać. Na przykład:
 1. Zacznij normalną rozmowę: 'Pomóż mi napisać brief kampanii'
 2. W trakcie, gdy nie rozumiesz pojęcia — wpisz `/explain <pojęcie>`
 3. Gdy utkniesz — wpisz `/hint`
@@ -36,7 +36,7 @@ Spróbuj: zacznij pisać z Claude krótki brief i w trakcie użyj /explain lub /
 Poczekaj na wykonanie.
 
 ## Podsumowanie
-"Dobrze! Zapamiętaj:
+"[imie], dobrze! Zapamiętaj:
 1. `/explain` to Twój słownik — używaj go gdy napotkasz nowe pojęcie
 2. `/hint` to Twoja podpowiedź — nie gotowa odpowiedź, ale kierunek
 3. Skille możesz mieszać z normalną rozmową — nie musisz wybierać

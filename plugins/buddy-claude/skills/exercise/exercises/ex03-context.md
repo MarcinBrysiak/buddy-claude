@@ -8,7 +8,7 @@
 
 ### Krok 1: Przygotuj materiał
 Powiedz uczestnikowi:
-"Do tego ćwiczenia potrzebujesz jakiegoś tekstu z Twojej pracy. Może to być:
+"[imie], do tego ćwiczenia potrzebujesz jakiegoś tekstu z Twojej pracy. Może to być:
 - Fragment briefu kampanii
 - Tekst z landing page'a
 - Treść newslettera
@@ -34,7 +34,7 @@ Przeanalizuj ten brief pod kątem:
 4. Co brakuje w tym briefie?
 Daj konkretne rekomendacje do poprawy.'"
 
-Poczekaj na wykonanie i zapytaj: "Jak oceniasz analizę Claude? Coś Cię zaskoczyło?"
+Poczekaj na wykonanie i zapytaj: "[imie], jak oceniasz analizę Claude? Coś Cię zaskoczyło?"
 
 ### Krok 3: Przetwórz materiał
 Powiedz uczestnikowi:
@@ -48,7 +48,7 @@ Wybierz to co najbardziej pasuje do Twojej pracy."
 Poczekaj i daj feedback na wynik.
 
 ## Podsumowanie
-"Brawo! Właśnie nauczyłeś/aś się:
+"[imie], brawo! Właśnie nauczyłeś/aś się:
 1. Dawać Claude materiał źródłowy jako kontekst
 2. Prosić o analizę z konkretnymi kryteriami
 3. Przetwarzać materiał na różne formaty

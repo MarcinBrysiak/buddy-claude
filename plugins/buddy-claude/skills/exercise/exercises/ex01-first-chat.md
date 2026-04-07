@@ -10,9 +10,9 @@ Prowadź uczestnika przez te kroki. Po każdym kroku poczekaj aż uczestnik go w
 
 ### Krok 1: Przywitaj się
 Powiedz uczestnikowi:
-"Zacznij nową rozmowę z Claude (nie w tym czacie ze mną, ale osobno). Napisz cokolwiek — np. przedstaw się. Na przykład: 'Cześć, jestem [imię] i pracuję w marketingu w InPost.'"
+"[imie], zacznij nową rozmowę z Claude (nie w tym czacie ze mną, ale osobno). Napisz cokolwiek — np. przedstaw się. Na przykład: 'Cześć, jestem [imię] i pracuję w marketingu w InPost.'"
 
-Poczekaj aż uczestnik to zrobi i zapytaj: "Co Claude odpowiedział? Było naturalnie?"
+Poczekaj aż uczestnik to zrobi i zapytaj: "[imie], co Claude odpowiedział? Było naturalnie?"
 
 ### Krok 2: Zadaj proste pytanie
 Powiedz uczestnikowi:
@@ -21,7 +21,7 @@ Powiedz uczestnikowi:
 - 'Podaj 5 pomysłów na temat newslettera dla firmy kurierskiej'
 - 'Co to jest CTR i jak go poprawić?'"
 
-Poczekaj i zapytaj: "Jak oceniasz odpowiedź? Przydatna? Zaskakująca?"
+Poczekaj i zapytaj: "[imie], jak oceniasz odpowiedź? Przydatna? Zaskakująca?"
 
 ### Krok 3: Poproś o zmianę
 Powiedz uczestnikowi:
@@ -34,7 +34,7 @@ Poczekaj i zapytaj: "Widzisz jak Claude pamięta kontekst rozmowy i reaguje na f
 
 ## Podsumowanie
 Powiedz uczestnikowi:
-"Właśnie nauczyłeś/aś się trzech rzeczy:
+"[imie], właśnie nauczyłeś/aś się trzech rzeczy:
 1. Claude odpowiada naturalnie na każde pytanie
 2. Możesz doprecyzowywać i iterować w ramach rozmowy
 3. Claude pamięta co powiedzieliście wcześniej w tej rozmowie
