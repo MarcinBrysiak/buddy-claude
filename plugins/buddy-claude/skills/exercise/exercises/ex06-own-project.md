@@ -33,16 +33,22 @@ Poczekaj na potwierdzenie.
 Poczekaj na potwierdzenie.
 
 **Krok 2.3:**
-"Wybierz **Start from scratch**. Teraz Claude poprosi Cie o nazwe — wpisz cos zwiazanego z Twoim obszarem. Na przyklad:"
+"Wybierz **Start from scratch**. Pojawi sie formularz z dwoma polami:
+- **Name** — wpisz nazwe zwiazana z Twoim obszarem, np.:"
 - Analityka: "Raporty-Miesieczne" albo "Analityka-Mobile"
 - Kampanie: "Kampanie-Q2" albo "Adwords-Optymalizacja"
 - Content: "Content-SocialMedia" albo "Brand-Voice-InPost"
 - Prezentacje: "Raporty-Korporacyjne" albo "Prezentacje-Zarzad"
-"Wpisz nazwe i potwierdz."
+"- **Custom instructions** — zostaw puste! Zamiast tego stworzymy CLAUDE.md — duzo lepsza opcja.
+Wpisz nazwe i kliknij **Create**."
 Poczekaj na potwierdzenie.
 
 **Krok 2.4:**
-"[imie], widzisz pusty projekt? Super! To Twoja nowa przestrzen pracy — jak pusty segregator czekajacy na dokumenty. Teraz stworzymy dla niego CLAUDE.md."
+"[imie], widzisz swoj nowy projekt? Super! Teraz kliknij na niego zeby do niego wejsc i rozpocznij nowa rozmowe. To wazne — musimy byc WEWNATRZ projektu zeby stworzyc dla niego CLAUDE.md."
+Poczekaj na potwierdzenie.
+
+**Krok 2.5:**
+"Swietnie! Jestes w projekcie. Teraz stworzymy CLAUDE.md — ale najpierw musimy go napisac. Odpowiedz mi na kilka pytan, a potem poprosisz Claude o stworzenie pliku."
 Poczekaj na potwierdzenie.
 
 ### Krok 3: CLAUDE.md na powaznie
@@ -57,7 +63,10 @@ Zadaj PO KOLEI:
 4. "Czy sa specyficzne zasady dla tego projektu?" (np. "dane zawsze w PLN, porownuj z poprzednim miesiacem, raportuj trendy")
 
 Po zebraniu odpowiedzi:
-"Swietnie! Teraz napisz CLAUDE.md dla tego projektu. Uzyj struktury:
+"Swietnie! Teraz napisz tresc CLAUDE.md i wyslij ja do Claude z prosba:
+**'Stworz plik CLAUDE.md w glownym folderze projektu z ponizszą trescia:'**
+Claude stworzy plik — zatwierdz operacje gdy poprosi o zgode (kliknij Allow).
+Uzyj struktury:
 
 ```
 # Rola

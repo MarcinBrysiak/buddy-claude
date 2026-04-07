@@ -60,7 +60,7 @@ Wymien krotko (1 zdanie kazde, BEZ glebokiego wyjasniania):
 - **Tool use** — zdolnosc Claude do korzystania z narzedzi (czytanie plikow, uruchamianie komend)
 - **Enterprise plan** — najwyzszy plan Claude, macie go — dane chronione, wszystkie modele, admin zarzadza
 
-Powiedz: "[imie], te pojecia poznasz w przyszlosci z Marcinem — Waszym AI Championem. Na razie wystarczy ze wiesz, iz istnieja."
+Powiedz: "[imie], te pojecia poznasz w przyszlosci z Waszym AI Championem. Na razie wystarczy ze wiesz, iz istnieja."
 
 ## Zakonczenie modulu
 

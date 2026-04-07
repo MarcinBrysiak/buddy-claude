@@ -26,9 +26,27 @@ Wyjasnij sciezke:
    - **Start from scratch** — pusty projekt, sam go wypelnisz. Jak nowy, pusty segregator. "Tego uzyjesz w cwiczeniu."
    - **Import a project** — podlaczenie repozytorium z GitHub. "To dla developerow — nie musisz tego znac."
    - **Use an existing folder** — wskazujesz folder ktory juz masz na dysku. "Przydatne gdy masz juz materialy w folderze i chcesz zeby Claude z nimi pracowal."
-4. Po wybraniu opcji — Claude poprosi o nazwe projektu
+4. Po wybraniu **Start from scratch** pojawia sie formularz:
+   - **Name** — nazwa projektu (np. "Raporty-Miesieczne"). Krotka, opisowa, bez spacji (uzyj myslnikow).
+   - **Custom instructions** — to pole mozesz na razie zostawic puste! Bedziemy uzywac CLAUDE.md zamiast tego — to znacznie lepsza opcja, bo masz pelna kontrole nad formatem. W cwiczeniu pokaze Ci jak.
+5. Klikasz **Create** i masz gotowy projekt!
 
-Zapytaj: "[imie], jasne? Trzy opcje — my uzyjemy 'Start from scratch'. Proste."
+Zapytaj: "[imie], jasne? Trzy opcje — my uzyjemy 'Start from scratch'. A pole 'Custom instructions' zostawiamy puste — zamiast tego stworzymy CLAUDE.md, ktory daje duzo wiecej mozliwosci."
+
+## Sekcja 2b: Jak dodac CLAUDE.md do projektu
+
+Wyjasnij uczestnikowi:
+"Pamietasz CLAUDE.md z modulu 6? Kazdy projekt moze miec swoj wlasny. Oto jak go dodac:"
+
+1. Wejdz do swojego projektu (kliknij na jego nazwe w Projects)
+2. Rozpocznij nowa rozmowe w tym projekcie
+3. Poproś Claude: "Stworz plik CLAUDE.md w glownym folderze projektu" — i podaj tresc (role, zasady, format)
+4. Claude stworzy plik — zatwierdz operacje gdy poprosi o zgode
+5. Od teraz KAZDA nowa rozmowa w tym projekcie zaczyna sie od przeczytania tego CLAUDE.md
+
+Analogia: "To jak przypinanie kartki z zasadami na poczatku segregatora — kazdy kto go otwiera, najpierw widzi zasady."
+
+Zapytaj: "[imie], widzisz roznice? Custom instructions to jedno zdanie. CLAUDE.md to pelny brand book — role, zasady, format, kontekst. Duzo potezniejsze!"
 
 ## Sekcja 3: Anatomia projektu
 

@@ -65,7 +65,7 @@ Wyjasnij uczestnikowi:
 - Pamietasz jak na poczatku szkolenia instalowales/as buddy-claude?
 - Szles/as przez: Customize → Personal plugins → Add marketplace → instalacja
 - To jest dokladnie ta sama sciezka ktora bedziecie uzywac w przyszlosci
-- Marketplace to "sklep z pluginami" — Marcin bedzie tam dodawac nowe narzedzia dla zespolu
+- Marketplace to "sklep z pluginami" — Wasz AI Champion bedzie tam dodawac nowe narzedzia dla zespolu
 - Wy bedzecie je instalowac jedna komenda
 
 Zapytaj: "[imie], widzisz jak to sie laczy? Instalacja pluginu to bylo Twoje pierwsze zadanie na szkoleniu — a teraz rozumiesz co tak naprawde robiles/as!"

@@ -34,7 +34,7 @@ Wyjasnij uczestnikowi:
 - Claude Code desktop app ma 3 tryby pracy — jak 3 rozne "biurka":
 - **Chat** — prosty czat z Claude, jak rozmowa na Messengerze. Piszesz, dostajesz odpowiedz. "Ten tryb poznacie w przyszlosci."
 - **Cowork** — to w czym teraz jestescie! Czat PLUS dostep do plikow, narzedzi, pluginow. "To Wasze glowne narzedzie pracy."
-- **Code** — terminal dla developerow, linia komend. "To domena Marcina i zespolu technicznego. Nie musicie tego znac."
+- **Code** — terminal dla developerow, linia komend. "To domena AI Championa i zespolu technicznego. Nie musicie tego znac."
 - Kluczowy przekaz: "Cowork laczy prostosc chatu z moca pracy na plikach i dokumentach. Dlatego go uzywamy."
 
 Zapytaj: "[imie], widzisz ze jestes w Cowork? Super — tu zostajemy przez caly kurs."
@@ -59,7 +59,7 @@ Wyjasnij uczestnikowi:
   - Wasze rozmowy NIE sa uzywane do trenowania AI
   - Macie dostep do wszystkich modeli
   - Mozecie instalowac pluginy (jak ten Buddy-Claude!)
-  - Administrator (AI Champion — Marcin) zarzadza dostepami
+  - Administrator (Wasz AI Champion) zarzadza dostepami
 - Analogia: "To jak roznica miedzy darmowym Canva a Canva Enterprise — wiecej mozliwosci, lepsza kontrola, bezpieczenstwo danych firmy"
 
 Podsumuj modul: "[imie], teraz wiesz czym jest Claude, jakie ma modele, ze pracujesz w trybie Cowork i ze Claude widzi pliki na Twoim dysku. Ruszamy do cwiczenia — napiszesz swoj pierwszy prompt! [Krok 2/13 ukonczony]"

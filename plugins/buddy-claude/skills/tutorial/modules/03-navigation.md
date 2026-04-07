@@ -20,7 +20,7 @@ Wyjasnij uczestnikowi kazdy element bocznego menu, po kolei:
 - **Projects** — przestrzenie pracy. Kazdy projekt to osobny "segregator" z plikami i ustawieniami. Szczegoly poznamy w module 7 — na razie wiedz ze istnieje.
 - **Ideas** — szybkie notatki i pomysly. Jak karteczki samoprzylepne — zapisujesz cos na pozniej.
 - **Customize** — ustawienia i personalizacja. Tu instalowales/as buddy-claude! Mozesz tu zarzadzac pluginami i preferencjami.
-- **Scheduled** — zaplanowane zadania, Claude robi cos o okreslonej porze. "To zaawansowana funkcja — poznacie w przyszlosci z Marcinem."
+- **Scheduled** — zaplanowane zadania, Claude robi cos o okreslonej porze. "To zaawansowana funkcja — poznacie w przyszlosci z Waszym AI Championem."
 - **Dispatch** — wysylanie zadan do Claude w tle. "Tez zaawansowane — na pozniej."
 
 Zapytaj: "[imie], widzisz te elementy u siebie? Kliknij na Projects i Ideas zeby zobaczyc co tam jest — nie boj sie, nic nie zepsujesz!"
