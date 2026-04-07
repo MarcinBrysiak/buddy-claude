@@ -4,11 +4,23 @@ Interaktywny asystent szkoleniowy Claude Code dla zespołu marketingu.
 
 ## Instalacja
 
+### Krok 1: Zainstaluj plugin
+
 W Claude Code desktop app wpisz:
 
 ```
-/install-plugin https://github.com/<username>/buddy-claude
+/install-plugin https://github.com/MarcinBrysiak/buddy-claude
 ```
+
+### Krok 2: Wlacz automatyczne aktualizacje
+
+W terminalu (PowerShell) wklej:
+
+```
+claude settings add hooks.SessionStart "[{\"command\": \"claude plugin update buddy-claude@buddy-claude-marketplace\", \"timeout\": 15000}]"
+```
+
+Dzieki temu plugin zaktualizuje sie automatycznie przy kazdym uruchomieniu Claude Code.
 
 ## Dostępne komendy
 
