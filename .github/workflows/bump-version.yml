@@ -1,0 +1,52 @@
+name: Auto bump plugin version
+
+on:
+  push:
+    branches: [master]
+    paths-ignore:
+      - '.github/workflows/bump-version.yml'
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    # Skip if the last commit was from this action (prevent infinite loop)
+    if: "!contains(github.event.head_commit.message, '[auto-bump]')"
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Bump patch version in plugin.json and marketplace.json
+        run: |
+          PLUGIN_JSON="plugins/buddy-claude/.claude-plugin/plugin.json"
+          MARKETPLACE_JSON=".claude-plugin/marketplace.json"
+
+          # Read current version from plugin.json
+          CURRENT=$(jq -r '.version' "$PLUGIN_JSON")
+          echo "Current version: $CURRENT"
+
+          # Bump patch: 1.0.0 -> 1.0.1, 1.0.9 -> 1.0.10, etc.
+          IFS='.' read -r MAJOR MINOR PATCH <<< "$CURRENT"
+          NEW_VERSION="${MAJOR}.${MINOR}.$((PATCH + 1))"
+          echo "New version: $NEW_VERSION"
+
+          # Update plugin.json
+          jq --arg v "$NEW_VERSION" '.version = $v' "$PLUGIN_JSON" > tmp.json && mv tmp.json "$PLUGIN_JSON"
+
+          # Update marketplace.json (top-level and inside plugins array)
+          jq --arg v "$NEW_VERSION" '
+            .metadata.version = $v |
+            .plugins[0].version = $v
+          ' "$MARKETPLACE_JSON" > tmp.json && mv tmp.json "$MARKETPLACE_JSON"
+
+          echo "version=$NEW_VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push version bump
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add plugins/buddy-claude/.claude-plugin/plugin.json .claude-plugin/marketplace.json
+          git commit -m "chore: bump version [auto-bump]"
+          git push
