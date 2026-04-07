@@ -8,7 +8,7 @@ Wyjaśnij uczestnikowi:
 - "Prompt" brzmi technicznie, ale to zwykłe polecenie/pytanie/prośba
 - Analogia: "Prompt to jak brief. Im lepszy brief, tym lepsza praca agencji. Im lepszy prompt, tym lepsza odpowiedź Claude."
 
-Zapytaj: "Proste, prawda? Ale tak jak w marketingu — diabeł tkwi w szczegółach. Zobaczmy jak pisać dobre prompty."
+Zapytaj: "[imie], proste, prawda? Ale tak jak w marketingu — diabeł tkwi w szczegółach. Zobaczmy jak pisać dobre prompty."
 
 ## Sekcja 2: Zły vs. dobry prompt — porównanie
 
@@ -25,7 +25,7 @@ Wyjaśnij różnicę:
 - Dobry prompt = rola, kontekst, cel, format odpowiedzi
 - Analogia: "To jak różnica między 'zróbcie coś fajnego' a profesjonalnym briefem kampanii"
 
-Zapytaj: "Widzicie różnicę? Teraz Wy spróbujcie — wpisz `/exercise 2` żeby przećwiczyć."
+Zapytaj: "[imie], widzisz różnicę? Teraz Wy spróbujcie — wpisz `/exercise 2` żeby przećwiczyć."
 
 ## Sekcja 3: Technika RKKF (Rola-Kontekst-Komenda-Format)
 
@@ -44,7 +44,7 @@ Daj przykład:
 > **K:** Napisz temat i pierwsze 3 zdania newslettera o nowej usłudze dostawy w 3 godziny.
 > **F:** Daj 3 warianty — formalny, przyjazny, i odważny.
 
-Zapytaj: "Chcecie spróbować? Wymyślcie prompt używając RKKF i wyślijcie go do Claude w tym czacie."
+Zapytaj: "[imie], chcesz spróbować? Wymyślcie prompt używając RKKF i wyślijcie go do Claude w tym czacie."
 
 ## Sekcja 4: Iteracja — rozmowa z Claude
 
@@ -55,6 +55,6 @@ Wyjaśnij uczestnikowi:
 - Claude pamięta kontekst rozmowy — nie musisz powtarzać wszystkiego
 - Analogia: "To jak praca z copywriterem na Slacku. Dajesz feedback, dostajesz poprawkę. Nie piszesz nowego briefu za każdym razem."
 
-Poproś uczestnika: "Weź ostatnią odpowiedź Claude i poproś o zmianę — np. 'skróć to o połowę' lub 'zmień ton na bardziej bezpośredni'. Zobacz jak Claude reaguje."
+Poproś uczestnika: "[imie], weź ostatnią odpowiedź Claude i poproś o zmianę — np. 'skróć to o połowę' lub 'zmień ton na bardziej bezpośredni'. Zobacz jak Claude reaguje."
 
-Podsumuj moduł: "Teraz znacie podstawy promptowania: kontekst jest kluczowy, RKKF to Wasz szablon, a iteracja to normalna część pracy. Chcesz więcej praktyki? Wpisz `/exercise 2`."
+Podsumuj moduł: "[imie], teraz znasz podstawy promptowania: kontekst jest kluczowy, RKKF to Twój szablon, a iteracja to normalna część pracy. Ruszamy dalej — ćwiczenie z kontekstem! [Krok 6/13 ukończony]"
